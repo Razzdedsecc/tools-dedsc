@@ -26,10 +26,15 @@ Penginstalan:
 Wajib
 - Kalian Harus Menginstal bahannya dengan cara pilih line 18
 ```
+## Update Logs
+```sh
+- Perbaikan masalah
+- Penambahan ++
+- Bug fix
 
 # CONTACT:
 ```sh
 DEDSec COmmUniTy 
 bY Razz#124Z
-Update to >>> 1.0.0 Beta
+Update to >>> 1.0.3 Beta
 ```
