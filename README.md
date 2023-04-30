@@ -18,7 +18,7 @@ yaitu DedSec Community
 Penginstalan:
  git clone https://github.com/Razzdedsecc/tools-dedsc
  cd tools-dedsec
- python3 login.py
+ python3 Login.py
 
  untuk user & pw Tanyakan ke Owner
  Selamat memakai
