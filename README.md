@@ -31,5 +31,5 @@ Wajib
 ```sh
 DEDSec COmmUniTy 
 bY Razz#124Z
-Update to >>> 1.0.3 Beta
+Update to >>> 1.0.0 Beta
 ```
