@@ -31,6 +31,7 @@ Wajib
 - Perbaikan masalah
 - Penambahan ++
 - Bug fix
+```
 
 # CONTACT:
 ```sh
