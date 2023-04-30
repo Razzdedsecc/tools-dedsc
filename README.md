@@ -10,7 +10,7 @@ yaitu DedSec Community
 - [x] Ubuntu
 - [x] Debian
 - [x] Linux
-- [?] Untuk Centos Dan Tidak ada di daftar Syaa belum coba
+[?] Untuk Centos Dan Tidak ada di daftar Syaa belum coba
 
 # Setup X build
 ```sh
