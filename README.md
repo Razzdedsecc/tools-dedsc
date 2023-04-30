@@ -1,3 +1,4 @@
+<div align=center>
 # Tools New For Dedsec😎
 Silahkan Gunakan Tools Ini
 
