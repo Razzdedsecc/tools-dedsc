@@ -16,12 +16,12 @@ yaitu DedSec Community
 # Setup X build
 ```sh
 Penginstalan:
-- git clone https://github.com/Razzdedsecc/tools-dedsc
-- cd tools-dedsec
-- python3 login.py
+ git clone https://github.com/Razzdedsecc/tools-dedsc
+ cd tools-dedsec
+ python3 login.py
 
-- untuk user & pw Tanyakan ke Owner
-- Selamat memakai
+ untuk user & pw Tanyakan ke Owner
+ Selamat memakai
 
 Wajib
 - Kalian Harus Menginstal bahannya dengan cara pilih line 18
