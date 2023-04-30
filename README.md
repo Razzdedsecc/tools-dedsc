@@ -20,6 +20,44 @@ Penginstalan:
  cd tools-dedsc
  python3 Login.py
 
+FOR TERMUX
+  apt update && apt upgrade
+  pkg install python2
+  pip2 install urllib3 chardet certifi idna requests
+  pkg install git
+  pip2 install mechanize
+  pkg install curl
+  pkg install ruby
+  pkg install gem
+  gem install lolcat
+  pkg install git
+  pkg install php
+  pkg install ruby cowsay toilet figlet
+  pkg install neofetch
+  pkg install nano
+  pip2 install time
+  pip2 install sys
+  pip2 install os
+  
+ FOR UBUNTU
+  sudo pkg update && sudo pkg upgrade
+  sudo pkg install python2
+  sudo pip2 install urllib3 chardet certifi idna requests
+  sudo pkg install git
+  sudo pip2 install mechanize
+  sudo pkg install curl
+  sudo pkg install ruby
+  sudo pkg install gem
+  sudo gem install lolcat
+  sudo pkg install git
+  sudo pkg install php
+  sudo pkg install ruby cowsay toilet figlet
+  sudo pkg install neofetch
+  sudo pkg install nano
+  sudo pip2 install time
+  sudo pip2 install sys
+  sudo pip2 install os
+
  untuk user & pw Tanyakan ke Owner
  Selamat memakai
 
@@ -31,11 +69,12 @@ Wajib
 - Perbaikan masalah
 - Penambahan ++
 - Bug fix
+- Setup Install
 ```
 
 # CONTACT:
 ```sh
 DEDSec COmmUniTy 
 bY Razz#124Z
-Update to >>> 1.0.3 Beta
+Update to >>> 1.0.4 Beta
 ```
