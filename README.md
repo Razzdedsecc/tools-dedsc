@@ -40,20 +40,20 @@ FOR TERMUX
   pip2 install os
   
  FOR UBUNTU
-  sudo pkg update && sudo pkg upgrade
-  sudo pkg install python2
+  sudo apt update && sudo apt upgrade
+  sudo apt install python2
   sudo pip2 install urllib3 chardet certifi idna requests
-  sudo pkg install git
+  sudo apt install git
   sudo pip2 install mechanize
-  sudo pkg install curl
-  sudo pkg install ruby
-  sudo pkg install gem
+  sudo apt install curl
+  sudo apt install ruby
+  sudo apt install gem
   sudo gem install lolcat
-  sudo pkg install git
-  sudo pkg install php
-  sudo pkg install ruby cowsay toilet figlet
-  sudo pkg install neofetch
-  sudo pkg install nano
+  sudo apt install git
+  sudo apt install php
+  sudo apt install ruby cowsay toilet figlet
+  sudo apt install neofetch
+  sudo apt install nano
   sudo pip2 install time
   sudo pip2 install sys
   sudo pip2 install os
